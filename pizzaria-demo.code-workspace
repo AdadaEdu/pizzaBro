@@ -1,0 +1,32 @@
+{
+  "folders": [
+    {
+      "name": "backend2025-pizzademo",
+      "path": "backend2025-pizzademo"
+    },
+    {
+      "name": "frontend2025",
+      "path": "frontend2025"
+    }
+  ],
+  "settings": {
+    // Você pode adicionar configurações específicas do VS Code aqui
+  },
+  "extensions": {
+    "recommendations": [
+      "esbenp.prettier-vscode",
+      "dbaeumer.vscode-eslint",
+      "ms-azuretools.vscode-docker"
+    ]
+  },
+  "remoteRepositories": [
+    {
+      "name": "backend2025-pizzademo",
+      "url": "https://github.com/prowenderfirmino/backend2025-pizzademo.git"
+    },
+    {
+      "name": "frontend2025",
+      "url": "git@github.com:prowenderfirmino/frontend2025.git"
+    }
+  ]
+}
