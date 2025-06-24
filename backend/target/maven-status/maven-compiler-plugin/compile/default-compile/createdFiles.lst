@@ -1,0 +1,17 @@
+com/senac/pizzademo/repository/PedidoRepository.class
+com/senac/pizzademo/model/Cardapio.class
+com/senac/pizzademo/controller/PedidoController.class
+com/senac/pizzademo/PizzademoApplication.class
+com/senac/pizzademo/config/WebConfig.class
+com/senac/pizzademo/model/Cliente.class
+com/senac/pizzademo/controller/PizzaController.class
+com/senac/pizzademo/model/Ingrediente.class
+com/senac/pizzademo/controller/AuthController.class
+com/senac/pizzademo/model/Pizza.class
+com/senac/pizzademo/model/Ingredientes.class
+com/senac/pizzademo/repository/CardapioRepository.class
+com/senac/pizzademo/model/Pedido.class
+com/senac/pizzademo/model/ItemPedido.class
+com/senac/pizzademo/controller/ClienteController.class
+com/senac/pizzademo/repository/PizzaRepository.class
+com/senac/pizzademo/repository/IngredientesRepository.class
