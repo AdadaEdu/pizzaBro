@@ -1,0 +1,80 @@
+# .gitignore for pizzaria-demo monorepo
+
+# Global
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+*.orig
+
+# Node.js / Frontend
+node_modules/
+dist/
+build/
+.env
+.env.*
+.vscode/
+coverage/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite
+.vite/
+
+# React
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# Java / Maven / Spring Boot
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+*.orig
+
+# Maven
+backend2025-pizzademo/target/
+backend2025-pizzademo/.mvn/
+backend2025-pizzademo/.idea/
+backend2025-pizzademo/.classpath
+backend2025-pizzademo/.project
+backend2025-pizzademo/.settings/
+
+# OS generated
+*.DS_Store
+*.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Shell scripts
+*.sh~
+
+# VSCode
+.vscode/
+
+# Others
+*.sublime-workspace
+*.sublime-project
+
+# Ignore workspace settings
+*.code-workspace
